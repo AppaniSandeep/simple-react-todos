@@ -7,7 +7,7 @@ const SimpleTodos = ({isTodoAdded,setIsTodoAdded}) => {
   return (
     <div className='bg-container'>
       <h1 className='heading'>Simple Todos</h1>
-      <div>
+      <div className='todo-items-wrapper'>
         <TodoItem isTodoAdded={isTodoAdded} setIsTodoAdded={setIsTodoAdded}/>
       </div>
     </div>

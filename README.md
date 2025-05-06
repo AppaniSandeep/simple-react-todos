@@ -34,9 +34,6 @@ simple-react-todos/
 ├── LICENSE
 └── .gitignore
 
-bash
-Copy
-Edit
 
 ## 🛠️ Technologies Used
 
