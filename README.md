@@ -34,6 +34,10 @@ simple-react-todos/
 ├── LICENSE
 └── .gitignore
 
+## 🌐 Live Project
+
+Check out the live app: ("https://simple-react-todos-git-main-appanisandeeps-projects.vercel.app")
+
 
 ## 🛠️ Technologies Used
 
